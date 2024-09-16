@@ -4,10 +4,20 @@
         <title>My Site Blog</title>
         <link>https://krishna1306.github.io/blog/</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Sep 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Test Blog Post]]></title>
+            <link>https://krishna1306.github.io/blog/test-blog/</link>
+            <guid>https://krishna1306.github.io/blog/test-blog/</guid>
+            <pubDate>Sun, 15 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello. This is a test post]]></description>
+            <content:encoded><![CDATA[<p>Hello. This is a test post</p>]]></content:encoded>
+            <category>Hola</category>
+            <category>Docusaurus</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://krishna1306.github.io/blog/welcome/</link>
